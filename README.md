@@ -3,9 +3,10 @@
 </h1>
 
 <p align="center">
-  💼 &nbsp;Currently building · · ·&nbsp; <strong>groq_chatbot_lib</strong> — a Python library for AI-powered chatbots with tool calling.<br/>
-  <a href="https://linkedin.com/in/yourhandle">LinkedIn</a> &nbsp;•&nbsp;
-  <a href="mailto:you@email.com">Email</a>
+  💼 &nbsp;Currently building · · ·&nbsp; <strong>Bookstore</strong>A bookstore with AI features, chatbots and agent tooling.<br/>
+   <a href="https://ahmedfazil.a-faazil07.workers.dev/">Portfolio</a>
+  <a href="https://www.linkedin.com/in/ahmed-fazil-b512b6223/">LinkedIn</a> &nbsp;•&nbsp;
+  <a href="mailto:a.faazil07@email.com">Email</a>
 </p>
 
 ---
@@ -46,13 +47,13 @@ Right now I'm focused on Python, FastAPI, and integrating AI into practical appl
 | 🔗 [**Bookstore API**](https://github.com/yourhandle/bookstore) | A fully Dockerized bookstore backend built with FastAPI, PostgreSQL, and Poetry — includes an AI-powered chatbot that answers customer queries in real time |
 | 🔗 [**groq_chatbot_lib**](https://github.com/yourhandle/groq-chatbot-lib) | A Python library that wraps the Groq API with tool calling support — designed to be dropped into any FastAPI project as a plug-and-play conversational AI layer |
 | 🔗 [**CleverCatch**](https://github.com/yourhandle/clevercatch) | Final year project — an intelligent retail surveillance system that assigns a suspicion score to individuals in real time, helping stores detect shoplifting before it happens. Includes a web app and mobile app, fully designed in Figma |
-| 🔗 [**Luxury Times**](https://github.com/yourhandle/luxury-times) | A luxury watch e-commerce store with a focus on on-page SEO — optimized for search visibility, clean product structure, and a premium shopping experience |
+| 🔗 [**Luxury Times**](https://github.com/yourhandle/luxury-times) | A luxury watch e-commerce store with a focus on on-page SEO and Ai features for generating keywords, descriptions — optimized for search visibility, clean product structure, and a premium shopping experience |
 | 🔗 [**Hand Recognition System**](https://github.com/yourhandle/hand-recognition) | A machine learning system trained via Google Teachable Machine that recognizes hand gestures and maps them to A–Z English letters in real time |
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&title_color=000000&icon_color=000000&text_color=555555&bg_color=ffffff" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=wydfaxil7&show_icons=true&hide_border=true&title_color=000000&icon_color=000000&text_color=555555&bg_color=ffffff" height="150"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&title_color=000000&text_color=555555&bg_color=ffffff" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wydfaxil7&layout=compact&hide_border=true&title_color=000000&text_color=555555&bg_color=ffffff" height="150"/>
 </p>
