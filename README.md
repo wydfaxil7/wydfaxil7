@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  💼 &nbsp;Currently building · · ·&nbsp; <strong>Bookstore</strong>A bookstore with AI features, chatbots and agent tooling.<br/>
+  💼 &nbsp;Currently building · · ·&nbsp; <strong>Bookstore</strong> with AI features, chatbot called BOOKGPT and agent tooling.<br/>
    <a href="https://ahmedfazil.a-faazil07.workers.dev/">Portfolio</a> &nbsp;•&nbsp;
   <a href="https://www.linkedin.com/in/ahmed-fazil-b512b6223/">LinkedIn</a> &nbsp;•&nbsp;
   <a href="mailto:a.faazil07@email.com">Email</a>
