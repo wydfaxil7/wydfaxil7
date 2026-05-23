@@ -84,8 +84,13 @@ Right now I'm focused on Python, FastAPI, and integrating AI into practical appl
 
 ---
 
+---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wydfaxil7&show_icons=true&hide_border=true&title_color=9745f5&icon_color=9745f5&text_color=555555&bg_color=00000000" height="150"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wydfaxil7&layout=compact&hide_border=true&title_color=9745f5&text_color=555555&bg_color=00000000" height="150"/>
+  <img src="https://komarev.com/ghpvc/?username=wydfaxil7&style=flat-square&color=9745f5&label=profile+views" alt="profile views"/>
+</p>
+
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it's bad."</i><br/>
+  <sub>-- Cory House</sub>
 </p>
